@@ -1,0 +1,7 @@
+In this project, we are going to integrate CometChat. Its going to be a step by step process.
+[] Initialize the CometChat
+[] Login the user
+[] Updaate left side bar with user list
+[] Update the right side bar with list of hitorical messages
+[] Update the send button to send message
+[] Update the message area to accept real-time messages
