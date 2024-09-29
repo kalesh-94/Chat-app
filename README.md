@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Chat-app
 Project Description
 This project is a real-time chat application built using Next.js and CometChat SDK. It enables users to engage in one-to-one and group conversations with features such as typing indicators, read receipts, and user presence. The application leverages Tailwind CSS for a sleek and responsive user interface, offering an optimal experience for real-time communication.
